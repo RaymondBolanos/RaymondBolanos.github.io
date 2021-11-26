@@ -1,5 +1,5 @@
 ---
-title: Project Name
+title: Raymond Bolanos
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/06-full.jpg
 alt: 
